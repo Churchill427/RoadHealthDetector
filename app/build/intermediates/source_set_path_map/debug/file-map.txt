@@ -1,0 +1,39 @@
+com.roadhealth.detector.app-lifecycle-runtime-2.6.1-0 C:\Users\l.churchill\.gradle\caches\transforms-3\0efe94dc3533f4b3470bb253c9204d2c\transformed\lifecycle-runtime-2.6.1\res
+com.roadhealth.detector.app-coordinatorlayout-1.1.0-1 C:\Users\l.churchill\.gradle\caches\transforms-3\0f13bfef1d02e60faf3a674bf00a7142\transformed\coordinatorlayout-1.1.0\res
+com.roadhealth.detector.app-jetified-emoji2-views-helper-1.2.0-2 C:\Users\l.churchill\.gradle\caches\transforms-3\1cc1e3ea50095ba4978d76d652a95510\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.roadhealth.detector.app-jetified-profileinstaller-1.3.0-3 C:\Users\l.churchill\.gradle\caches\transforms-3\20ba32dc80909f3fda98fb14ab6251ba\transformed\jetified-profileinstaller-1.3.0\res
+com.roadhealth.detector.app-recyclerview-1.1.0-4 C:\Users\l.churchill\.gradle\caches\transforms-3\2b2b05bd58ec4d2d4960f2a218adbac4\transformed\recyclerview-1.1.0\res
+com.roadhealth.detector.app-jetified-camera-video-1.3.1-5 C:\Users\l.churchill\.gradle\caches\transforms-3\2b76630ef8876b51a454814bb5afcebe\transformed\jetified-camera-video-1.3.1\res
+com.roadhealth.detector.app-lifecycle-viewmodel-2.6.1-6 C:\Users\l.churchill\.gradle\caches\transforms-3\2bf09468c18c0e2196e0c37dec6c6fdb\transformed\lifecycle-viewmodel-2.6.1\res
+com.roadhealth.detector.app-jetified-annotation-experimental-1.3.1-7 C:\Users\l.churchill\.gradle\caches\transforms-3\459ee6b1cbca2410ca294401df218bf8\transformed\jetified-annotation-experimental-1.3.1\res
+com.roadhealth.detector.app-core-1.9.0-8 C:\Users\l.churchill\.gradle\caches\transforms-3\4ab019a3ddfb7ce3703db84cb1361db5\transformed\core-1.9.0\res
+com.roadhealth.detector.app-jetified-activity-1.8.0-9 C:\Users\l.churchill\.gradle\caches\transforms-3\4e0dd28cf01daf7e98a08f9d270f86d2\transformed\jetified-activity-1.8.0\res
+com.roadhealth.detector.app-jetified-startup-runtime-1.1.1-10 C:\Users\l.churchill\.gradle\caches\transforms-3\6abd97fba50d94b7ec466c00a21788fc\transformed\jetified-startup-runtime-1.1.1\res
+com.roadhealth.detector.app-cardview-1.0.0-11 C:\Users\l.churchill\.gradle\caches\transforms-3\7418e41a65de7f781bccea1cb62dd45c\transformed\cardview-1.0.0\res
+com.roadhealth.detector.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-12 C:\Users\l.churchill\.gradle\caches\transforms-3\752d21917e68e7055523dbb04ac1b0ba\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.roadhealth.detector.app-jetified-appcompat-resources-1.6.1-13 C:\Users\l.churchill\.gradle\caches\transforms-3\7777969b156774a4bea6f16de47f979f\transformed\jetified-appcompat-resources-1.6.1\res
+com.roadhealth.detector.app-jetified-camera-lifecycle-1.3.1-14 C:\Users\l.churchill\.gradle\caches\transforms-3\788e7903503880f195c27172362886c0\transformed\jetified-camera-lifecycle-1.3.1\res
+com.roadhealth.detector.app-jetified-savedstate-1.2.1-15 C:\Users\l.churchill\.gradle\caches\transforms-3\8383ce589c3428e50934184e6d26da3b\transformed\jetified-savedstate-1.2.1\res
+com.roadhealth.detector.app-jetified-emoji2-1.2.0-16 C:\Users\l.churchill\.gradle\caches\transforms-3\870579bb6a02c4a9fcf44cd76a070088\transformed\jetified-emoji2-1.2.0\res
+com.roadhealth.detector.app-drawerlayout-1.1.1-17 C:\Users\l.churchill\.gradle\caches\transforms-3\88fd016e2ee7edd997a23f9dc579ed79\transformed\drawerlayout-1.1.1\res
+com.roadhealth.detector.app-jetified-camera-view-1.3.1-18 C:\Users\l.churchill\.gradle\caches\transforms-3\90c31da92c39648b2389c478445d5fc9\transformed\jetified-camera-view-1.3.1\res
+com.roadhealth.detector.app-constraintlayout-2.1.4-19 C:\Users\l.churchill\.gradle\caches\transforms-3\965a83c0f44625046e985b973af174c9\transformed\constraintlayout-2.1.4\res
+com.roadhealth.detector.app-jetified-viewpager2-1.0.0-20 C:\Users\l.churchill\.gradle\caches\transforms-3\9ac16318d95f3dc2b4c9ea8b85aef500\transformed\jetified-viewpager2-1.0.0\res
+com.roadhealth.detector.app-jetified-core-ktx-1.9.0-21 C:\Users\l.churchill\.gradle\caches\transforms-3\aec483ad398f3f569fb94f36789201e2\transformed\jetified-core-ktx-1.9.0\res
+com.roadhealth.detector.app-appcompat-1.6.1-22 C:\Users\l.churchill\.gradle\caches\transforms-3\bf1c39337335c1f6113c5963bd626d0d\transformed\appcompat-1.6.1\res
+com.roadhealth.detector.app-jetified-camera-camera2-1.3.1-23 C:\Users\l.churchill\.gradle\caches\transforms-3\c054742a9e7945e1c19b37df9b5c3801\transformed\jetified-camera-camera2-1.3.1\res
+com.roadhealth.detector.app-jetified-lifecycle-process-2.6.1-24 C:\Users\l.churchill\.gradle\caches\transforms-3\c706d297154b222c9cc549f627f0de4c\transformed\jetified-lifecycle-process-2.6.1\res
+com.roadhealth.detector.app-lifecycle-livedata-2.6.1-25 C:\Users\l.churchill\.gradle\caches\transforms-3\d54cdae442cb1368c87f43f374dab787\transformed\lifecycle-livedata-2.6.1\res
+com.roadhealth.detector.app-fragment-1.3.6-26 C:\Users\l.churchill\.gradle\caches\transforms-3\dd43ba3837d20eea0b2ed00cf99d540d\transformed\fragment-1.3.6\res
+com.roadhealth.detector.app-jetified-camera-core-1.3.1-27 C:\Users\l.churchill\.gradle\caches\transforms-3\df89cd08e72b382bb5d44fe4d9657c80\transformed\jetified-camera-core-1.3.1\res
+com.roadhealth.detector.app-lifecycle-livedata-core-2.6.1-28 C:\Users\l.churchill\.gradle\caches\transforms-3\e4f2fec066b43a6a7e37c8aa87ef4f66\transformed\lifecycle-livedata-core-2.6.1\res
+com.roadhealth.detector.app-material-1.11.0-29 C:\Users\l.churchill\.gradle\caches\transforms-3\e5f236403c8940510f9a62128178b4ee\transformed\material-1.11.0\res
+com.roadhealth.detector.app-core-runtime-2.2.0-30 C:\Users\l.churchill\.gradle\caches\transforms-3\f530682d43be1687ae7b5aec0287a16b\transformed\core-runtime-2.2.0\res
+com.roadhealth.detector.app-transition-1.2.0-31 C:\Users\l.churchill\.gradle\caches\transforms-3\fdeebf14a71a3ea62ffb2319606ee7c4\transformed\transition-1.2.0\res
+com.roadhealth.detector.app-pngs-32 D:\RoadHealthDetector_v4_boxes (1)\RoadHealthDetector\app\build\generated\res\pngs\debug
+com.roadhealth.detector.app-resValues-33 D:\RoadHealthDetector_v4_boxes (1)\RoadHealthDetector\app\build\generated\res\resValues\debug
+com.roadhealth.detector.app-packageDebugResources-34 D:\RoadHealthDetector_v4_boxes (1)\RoadHealthDetector\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.roadhealth.detector.app-packageDebugResources-35 D:\RoadHealthDetector_v4_boxes (1)\RoadHealthDetector\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.roadhealth.detector.app-merged_res-36 D:\RoadHealthDetector_v4_boxes (1)\RoadHealthDetector\app\build\intermediates\merged_res\debug
+com.roadhealth.detector.app-debug-37 D:\RoadHealthDetector_v4_boxes (1)\RoadHealthDetector\app\src\debug\res
+com.roadhealth.detector.app-main-38 D:\RoadHealthDetector_v4_boxes (1)\RoadHealthDetector\app\src\main\res
