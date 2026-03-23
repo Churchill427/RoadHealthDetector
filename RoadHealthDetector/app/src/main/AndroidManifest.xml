@@ -16,7 +16,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RoadHealthDetector"
         android:usesCleartextTraffic="true">
-
         <!-- usesCleartextTraffic=true allows HTTP (not just HTTPS) to your local server -->
 
         <activity
